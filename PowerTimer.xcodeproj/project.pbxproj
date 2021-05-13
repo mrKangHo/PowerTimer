@@ -16,6 +16,7 @@
 		1A6A7E4A264C0813005C09D2 /* TimerItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A6A7E48264C0813005C09D2 /* TimerItemCell.swift */; };
 		1A6A7E4B264C0813005C09D2 /* TimerItemCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1A6A7E49264C0813005C09D2 /* TimerItemCell.xib */; };
 		1A6A7E4D264C0BED005C09D2 /* DashBoardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A6A7E4C264C0BED005C09D2 /* DashBoardViewModel.swift */; };
+		9B96D9C4264CBC1900131A7F /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B96D9C3264CBC1900131A7F /* DetailViewController.swift */; };
 		C3C265397F369D4E609769F6 /* Pods_PowerTimer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DF56D1C1BCFD381FFAB7483 /* Pods_PowerTimer.framework */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		1A6A7E4C264C0BED005C09D2 /* DashBoardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashBoardViewModel.swift; sourceTree = "<group>"; };
 		3C7F848D4169B2E7983AC1E3 /* Pods-PowerTimer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PowerTimer.debug.xcconfig"; path = "Target Support Files/Pods-PowerTimer/Pods-PowerTimer.debug.xcconfig"; sourceTree = "<group>"; };
 		5DF56D1C1BCFD381FFAB7483 /* Pods_PowerTimer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PowerTimer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B96D9C3264CBC1900131A7F /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		C075CCAC0A3A89BC09F06DAC /* Pods-PowerTimer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PowerTimer.release.xcconfig"; path = "Target Support Files/Pods-PowerTimer/Pods-PowerTimer.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,6 +81,7 @@
 				1A6A7E42264C06F7005C09D2 /* Info.plist */,
 				1A6A7E48264C0813005C09D2 /* TimerItemCell.swift */,
 				1A6A7E49264C0813005C09D2 /* TimerItemCell.xib */,
+				9B96D9C3264CBC1900131A7F /* DetailViewController.swift */,
 			);
 			path = PowerTimer;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				1A6A7E4D264C0BED005C09D2 /* DashBoardViewModel.swift in Sources */,
 				1A6A7E39264C06F3005C09D2 /* DashBoardViewController.swift in Sources */,
 				1A6A7E35264C06F3005C09D2 /* AppDelegate.swift in Sources */,
+				9B96D9C4264CBC1900131A7F /* DetailViewController.swift in Sources */,
 				1A6A7E4A264C0813005C09D2 /* TimerItemCell.swift in Sources */,
 				1A6A7E37264C06F3005C09D2 /* SceneDelegate.swift in Sources */,
 			);

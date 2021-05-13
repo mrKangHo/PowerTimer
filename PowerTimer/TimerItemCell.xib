@@ -48,6 +48,10 @@
                 <constraint firstItem="QsD-gO-Peg" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="20" id="bAG-O0-W1z"/>
             </constraints>
             <size key="customSize" width="210" height="50"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="boolean" keyPath="isHeroEnabled" value="YES"/>
+                <userDefinedRuntimeAttribute type="boolean" keyPath="isHeroEnabledForSubviews" value="YES"/>
+            </userDefinedRuntimeAttributes>
             <connections>
                 <outlet property="lbRegDate" destination="QsD-gO-Peg" id="9O5-Nk-ZgX"/>
                 <outlet property="lbRemainTime" destination="nRH-aX-zxA" id="ebk-1W-U7E"/>
