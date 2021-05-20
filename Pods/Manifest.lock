@@ -1,0 +1,20 @@
+PODS:
+  - BouncyLayout (2.3.0)
+  - Hero (1.6.1)
+
+DEPENDENCIES:
+  - BouncyLayout
+  - Hero
+
+SPEC REPOS:
+  trunk:
+    - BouncyLayout
+    - Hero
+
+SPEC CHECKSUMS:
+  BouncyLayout: 946047ef4987959bc107731c665ca4fdcdef5e17
+  Hero: 215865ba3ae41dd9bb08cd6c60a645529c6fc94b
+
+PODFILE CHECKSUM: e2b27ba101ac2e182859f54149510601e2f63196
+
+COCOAPODS: 1.10.1
